@@ -2,7 +2,7 @@
 id: blogStart
 title: 第一篇生活博客
 author: ShiYi
-author_title: Front End Engineer @ Shopee
+author_title: Front End Engineer
 author_url: https://github.com/kukudeshiyi
 author_image_url: https://avatars.githubusercontent.com/u/38068266?v=4
 ---

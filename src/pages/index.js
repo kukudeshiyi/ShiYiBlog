@@ -53,7 +53,7 @@ function Home() {
           <p className="hero__subtitle">{siteConfig.tagline}</p>
         </div>
       </header>
-      <HomeContent />
+      {/* <HomeContent /> */}
     </Layout>
   );
 }
